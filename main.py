@@ -3,7 +3,7 @@ def print_hi(name):
 
 
 def new_function():
-    pass
+    print("Yo")
 
 
 if __name__ == '__main__':
